@@ -1,4 +1,4 @@
-# ZC-midterm23
+# ZC-midterm23 '#mlzoomcamp'
 Midterm project
 
 ## Description of the problem
